@@ -12,5 +12,13 @@
         "password": "pass456",
         "expirydate": "19-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "812f3f240393ac74",
+        "username": "dalag1",
+        "password": "dalag2",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
     }
+]
 ]
